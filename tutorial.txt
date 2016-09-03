@@ -7,7 +7,5 @@ https://www.youtube.com/watch?v=4ZAEBxGipoA
 https://www.youtube.com/watch?v=CdZchbwauG0
 https://www.youtube.com/watch?v=JR-Cr_PSVV4
 
-
-
 //starting
 https://facebook.github.io/react/docs/getting-started.html
